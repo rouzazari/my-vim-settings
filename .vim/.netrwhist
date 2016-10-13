@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/rouzbie/tdd/flasky/app/main'
+let g:netrw_dirhist_2='/home/rouzbie/PycharmProjects/projects.rouzazari.com/.git/logs'
+let g:netrw_dirhist_3='/home/rouzbie/tdd/scraping_project/scraping/tools/output'
+let g:netrw_dirhist_4='/home/rouzbie/PycharmProjects/game_scraper_project/game_scraper/.git'
+let g:netrw_dirhist_5='/home/rouzbie/PycharmProjects/videogamegopher.com/.git'
+let g:netrw_dirhist_6='/home/rouzbie/repos/kanban-app/node_modules'
+let g:netrw_dirhist_7='/home/rouzbie/PycharmProjects/HybridMethodTrial/.idea'
+let g:netrw_dirhist_8='/home/rouzbie/repos/celery_trial/.git'
